@@ -3,7 +3,7 @@
  * Plugin Name:       TBones Customize
  * Plugin URI:        https://tappingbones.com
  * Description:       Custom blocks, code etc.
- * Version:           1.0
+ * Version:           1.1
  * Requires at least: 6.0
  * Requires PHP:      8.0
  * Author:            Vishaal Gaikwad
